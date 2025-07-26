@@ -1,4 +1,4 @@
-package com.schema.registry.glue_schema_registry;
+package com.schema.registry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
